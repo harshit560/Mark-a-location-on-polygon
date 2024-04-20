@@ -1,8 +1,4 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
 
 import cv2
 import geopandas as gpd
@@ -33,13 +29,7 @@ plt.show()
 fig.savefig(filename,bbox_inches='tight')
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
 
 
 
